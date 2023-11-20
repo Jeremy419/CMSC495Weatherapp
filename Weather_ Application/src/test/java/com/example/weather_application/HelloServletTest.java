@@ -35,4 +35,12 @@ class HelloServletTest {
     static void afterAll() {
 
     }
+
+    @Test
+    void testDoGet() {
+    }
+
+    @Test
+    void getLastModified() {
+    }
 }
